@@ -1,0 +1,11 @@
+{
+  "total_preguntas": 19,
+  "primera_consulta": "2026-04-22 16:22:04",
+  "ultima_consulta": "2026-04-27 12:35:05",
+  "temas": {
+    "inundación": 4,
+    "sismo": 1,
+    "sismos": 1
+  },
+  "consultas_sgc": 3
+}
